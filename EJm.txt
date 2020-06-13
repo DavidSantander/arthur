@@ -1,0 +1,7 @@
+
+
+ADD GROUP ( BCATRADE.HORARIO,
+ /opt/s619/061/tuxedo80/bin/EFE_EliDepRet
+ /opt/s619/061/tuxedo80/bin/OPE_ConPrevalCV
+ /opt/s619/061/tuxedo80/bin/OPE_EliVtaFdoN1
+ )
